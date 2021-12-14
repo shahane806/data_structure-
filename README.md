@@ -1,4 +1,8 @@
 # data_structure-
+
+
+Name : Shahane Om Prashant
+
 data structure practical assignments 
 1. Sorting Programs
 
