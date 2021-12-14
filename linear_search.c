@@ -1,6 +1,8 @@
 
 
-
+/*
+Name : Shahane Om Prashant
+*/
 
 #include<stdio.h>
 int main()
