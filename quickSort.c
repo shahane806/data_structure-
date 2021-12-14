@@ -1,3 +1,9 @@
+/*
+Name : Shahane Om Prashant
+*/
+
+
+
 #include <stdio.h>
 void quicksort(int a[],int lb,int ub)
 {
