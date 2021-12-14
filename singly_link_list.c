@@ -1,3 +1,7 @@
+/*
+Name : Shahane Om Prashant
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
