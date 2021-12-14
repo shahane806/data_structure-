@@ -1,3 +1,7 @@
+/*
+Name : Shahane Om Prashant
+*/
+
 #include <stdio.h>
 int binarysearch(int a[],int n,int data)
 {
