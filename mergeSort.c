@@ -1,3 +1,10 @@
+
+/*
+Name : Shahane Om Prashant
+*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 void merge(int arr[], int l, int m, int r)
