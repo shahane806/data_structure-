@@ -1,3 +1,9 @@
+/*
+Name : Shahane Om Prashant
+*/
+
+
+
 #include<stdio.h>
 #define N 5
 int stack[N];
