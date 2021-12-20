@@ -6,10 +6,10 @@ Name : Shahane Om Prashant
 data structure practical assignments 
 1. Sorting Programs
 
-  i.    Bubble sort
-  ii.   Insertation sort
-  iii.  Quick sort
-  iv.   Merge sort
+   i. Bubble sort
+  ii. Insertation sort
+ iii. Quick sort
+  iv. Merge sort
   
 2. Searching Programs
 
@@ -35,7 +35,7 @@ iii. String reversed using stack (static)
  5. Queue
   i. Queue (static)
  ii. Queue (dynamic)
- 
+
  
  
  
