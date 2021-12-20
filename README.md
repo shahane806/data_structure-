@@ -32,6 +32,9 @@ iii. String reversed using stack (static)
   v. Number reversed using stack (static)
  vi. Number reversed using stack (dynamic)
  
+ 5. Queue
+  i. Queue (static)
+ ii. Queue (dynamic)
  
  
  
