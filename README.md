@@ -27,6 +27,11 @@ iii. Circular linked list
   
   i. Using array  (static)
  ii. Using Linked list (dynamic)
+iii. String reversed using stack (static)
+ iv. String reversed using stack (dynamic)
+  v. Number reversed using stack (static)
+ vi. Number reversed using stack (dynamic)
+ 
  
  
  
