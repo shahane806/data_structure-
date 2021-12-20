@@ -35,7 +35,8 @@ iii. String reversed using stack (static)
  5. Queue
   i. Queue (static)
  ii. Queue (dynamic)
-
+iii. Circular Queue (static)
+ iv. Circular Queue (dynamic)
  
  
  
