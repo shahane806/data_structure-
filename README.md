@@ -39,4 +39,4 @@ iii. Circular Queue (static)
  iv. Circular Queue (dynamic)
  
  
- 
+ 6. Binary Search Tree
